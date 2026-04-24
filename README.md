@@ -38,7 +38,7 @@ Intereses: arquitectura de software · seguridad de aplicaciones · inteligencia
 
 ## Formación complementaria
 
-**TryHackMe** — Pre-Security · Cybersecurity 101 · Jr. Penetration Tester (en curso)
+**TryHackMe** — Pre-Security · Cybersecurity 101 · Jr. Penetration Tester
 
 ---
 
